@@ -1,0 +1,15 @@
+A:\МДК 01.01\work with classes\work with classes\bin\Debug\net6.0\Работа с классами.exe
+A:\МДК 01.01\work with classes\work with classes\bin\Debug\net6.0\Работа с классами.deps.json
+A:\МДК 01.01\work with classes\work with classes\bin\Debug\net6.0\Работа с классами.runtimeconfig.json
+A:\МДК 01.01\work with classes\work with classes\bin\Debug\net6.0\Работа с классами.dll
+A:\МДК 01.01\work with classes\work with classes\bin\Debug\net6.0\Работа с классами.pdb
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.csproj.AssemblyReference.cache
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.AssemblyInfoInputs.cache
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.AssemblyInfo.cs
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.dll
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\refint\Работа с классами.dll
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.pdb
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\Работа с классами.genruntimeconfig.cache
+A:\МДК 01.01\work with classes\work with classes\obj\Debug\net6.0\ref\Работа с классами.dll
